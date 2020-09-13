@@ -8,6 +8,7 @@
 
 ## SECTION B - Exterior inspection
 - [ ] 1.  Verify that the vehicle's body color, interior, and wheels match what you configured.
+- [ ]     On white cars, check that the shade of white is the same for all panels and bumper (ref: https://teslamotorsclub.com/tmc/threads/white-color-mismatch-unacceptable.204105/ )
 - [ ] 2.  Inspect body exterior paint for defects. *NOTE: This should really be the only item which should cause you to reject a delivery; most other issues can be easily addressed in a separate service visit.*
 - [ ] 3.  Inspect vehicle underside (front and rear) for signs of scraping, or damage.
 - [ ] 4.  Check for any obvious body panel misalignment, or gaps. Especially the charge port, taillight and headlight housings.
